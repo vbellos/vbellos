@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaggelis Bellos
+- 👋 Hi, my name is Vaggelis Bellos
 - 👀 I’m interested in Backend and Frontend App Developement
 - 🌱 I’m currently studying Computer Science at the Department of Informatics, University of Piraeus
 - 📫 Email : vbellos.dev@gmail.com
